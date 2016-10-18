@@ -1,3 +1,4 @@
-﻿  main.cpp
-  2D.vcxproj -> D:\蔣宜桓\中正大學\CP\hw1\openGL\2D\Debug\2D.exe
-  2D.vcxproj -> D:\蔣宜桓\中正大學\CP\hw1\openGL\2D\Debug\2D.pdb (Partial PDB)
+﻿  main.c
+d:\蔣宜桓\中正大學\cp\opengl\2d\2d\main.c(19): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+  2D.vcxproj -> D:\蔣宜桓\中正大學\CP\openGL\2D\Debug\2D.exe
+  2D.vcxproj -> D:\蔣宜桓\中正大學\CP\openGL\2D\Debug\2D.pdb (Partial PDB)
